@@ -25,5 +25,5 @@ ___Công việc cả nhóm thực hiện:___
 Chia thành 2 nhóm:
 + Một nhóm suy nghĩ về những tính năng của người quản lý: Tuấn, Hải, Dũng
 + Một nhóm suy nghĩ về những tính năng của người mua: Nam, Huyền</ul>
-Thảo luận, góp ý các ý tưởng chính
+Thảo luận, góp ý các ý tưởng chính<br />
 Thiết kế giao diện app cơ bản
