@@ -23,7 +23,21 @@ Xem lại công việc tuần 1, 2
 Xây dựng ý tưởng và mô tả hệ thống thương mại điện tử 
 ___Công việc cả nhóm thực hiện:___
 Chia thành 2 nhóm:
-+ Một nhóm suy nghĩ về những tính năng của người quản lý: Tuấn, Hải, Dũng
-+ Một nhóm suy nghĩ về những tính năng của người mua: Nam, Huyền</ul>
+- Một nhóm suy nghĩ về những tính năng của người quản lý: Tuấn, Hải, Dũng
+- Một nhóm suy nghĩ về những tính năng của người mua: Nam, Huyền</ul>
 Thảo luận, góp ý các ý tưởng chính<br />
 Thiết kế giao diện app cơ bản
+### Công việc tuần 4
+___Công việc cả nhóm thực hiện:___
+Thiết kế các màn hình giao diện chính:
+- Màn hình login, signup
+- Màn hình sản phẩm</ul>
+### Công việc tuần 5
+Thiết kế các màn hình giao diện chính:
+- Màn hình danh sách sản phẩm
+- Màn hình profile</ul>
+Tìm hiểu về firebase bằng ReactNative
+### Công việc tuần 6
+Kết nối Firebase
+### Công việc tuần 7
+Sử dụng API Native
