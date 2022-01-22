@@ -45,7 +45,7 @@ Vì nhóm chia đề tài ra làm 2 app nên sử dụng 2 đường link
   <img src="https://docs.google.com/uc?export=open&id=1NJiY9cJvdlixGltdL3XomPpenief3mpB" width="216" height="456" />
 
 ### Shop
-
+- Màn hình Admin:\
   <img src="https://docs.google.com/uc?export=open&id=1HGWiBtzAoaJbHgoKLISi9-Tc5XreCPji" width="216" height="456" />
   <img src="https://docs.google.com/uc?export=open&id=1grV9_4mDjB_V29hHj79oieuBDLd7QZqZ" width="216" height="456" />
   <img src="https://docs.google.com/uc?export=open&id=1A39y4nJz2xoVtC00lvKlhvFt7rK_sApV" width="216" height="456" />
