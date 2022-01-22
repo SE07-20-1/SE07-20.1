@@ -18,9 +18,9 @@ Vì nhóm chia đề tài ra làm 2 app nên sử dụng 2 đường link
 ### Customer
 
 - Màn hình Onboard:
-  ![](https://docs.google.com/uc?export=open&id=1LgEuohL4lBpoRrNDatTCpKAxfLKsqlTy=432x912)
-  ![](https://docs.google.com/uc?export=open&id=1LrHzbNkixycLtQl8BOIZJjZ4oxdxiduP)
-  ![](https://docs.google.com/uc?export=open&id=1ZtXrg0f8jO4XW85flZzR5CO7h35BhKpn)
+  <img src="https://docs.google.com/uc?export=open&id=1LgEuohL4lBpoRrNDatTCpKAxfLKsqlTy" width="432" height="912" />
+  <img src="https://docs.google.com/uc?export=open&id=1LrHzbNkixycLtQl8BOIZJjZ4oxdxiduP" width="432" height="912" />
+  <img src="https://docs.google.com/uc?export=open&id=1ZtXrg0f8jO4XW85flZzR5CO7h35BhKpn" width="432" height="912" />
 - Màn hình Login:
   ![](https://docs.google.com/uc?export=open&id=1kmlo1TDS9N0_JwCSmdHUY0ocGLAfDaRR)
   ![](https://docs.google.com/uc?export=open&id=1W43ic7na1qF6EJOg0ywkaz4wD7vASbO8)
@@ -50,4 +50,3 @@ Vì nhóm chia đề tài ra làm 2 app nên sử dụng 2 đường link
 ![](https://docs.google.com/uc?export=open&id=1grV9_4mDjB_V29hHj79oieuBDLd7QZqZ)
 ![](https://docs.google.com/uc?export=open&id=1A39y4nJz2xoVtC00lvKlhvFt7rK_sApV)
 ![](https://docs.google.com/uc?export=open&id=1rwl_YV2T7i-bNO5R52mG2XQTrTf_-TQw)
-
