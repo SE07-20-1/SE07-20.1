@@ -1,0 +1,6 @@
+[submodule "Shop"]
+	path = Shop
+	url = https://github.com/callmefox88201/Shop
+[submodule "Customer"]
+	path = Customer
+	url = https://github.com/callmefox88201/Customer
