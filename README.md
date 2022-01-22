@@ -18,7 +18,7 @@ Vì nhóm chia đề tài ra làm 2 app nên sử dụng 2 đường link
 ### Customer
 
 - Màn hình Onboard:
-  ![](https://docs.google.com/uc?export=open&id=1LgEuohL4lBpoRrNDatTCpKAxfLKsqlTy =432x912)
+  ![](https://docs.google.com/uc?export=open&id=1LgEuohL4lBpoRrNDatTCpKAxfLKsqlTy=432x912)
   ![](https://docs.google.com/uc?export=open&id=1LrHzbNkixycLtQl8BOIZJjZ4oxdxiduP)
   ![](https://docs.google.com/uc?export=open&id=1ZtXrg0f8jO4XW85flZzR5CO7h35BhKpn)
 - Màn hình Login:
