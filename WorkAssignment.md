@@ -19,8 +19,8 @@ ___Công việc cá nhân thực hiện:___
 - Hoàng Đức Hải tìm hiểu xu thế lập trình React Native hiện tại
 - Nguyễn Anh Tuấn so sánh lập trình React Native với các nền tảng khác
 ### Công việc tuần 3
-Xem lại công việc tuần 1, 2
-Xây dựng ý tưởng và mô tả hệ thống thương mại điện tử 
+Xem lại công việc tuần 1, 2<br />
+Xây dựng ý tưởng và mô tả hệ thống thương mại điện tử <br />
 ___Công việc cả nhóm thực hiện:___
 Chia thành 2 nhóm:
 - Một nhóm suy nghĩ về những tính năng của người quản lý: Tuấn, Hải, Dũng
