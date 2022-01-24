@@ -41,3 +41,23 @@ Tìm hiểu về firebase bằng ReactNative
 Kết nối Firebase
 ### Công việc tuần 7
 Sử dụng API Native
+### Công việc tuần 8 đến cuối kỳ
+- Sửa lại giao diện các màn hình
+- Thu thập dữ liệu
+- Đẩy dữ liệu lên database và firestore
+- Code, sửa backend</ul>
+## Phân chia công việc
+- Lý thuyết: chia rõ công việc từng người theo từng issue trên github
+- Thực hành:</ul>
+### Front-end
++ Nguyễn Anh Tuấn: Màn hình Bottom Tab, ProductList, ProductDetail bên Customer
++ Phạm Thị Huyền: Màn hình Login, Signup, Welcome bên Customer; Màn hình AddProduct, EditProduct bên Shop, chỉnh sửa lại style các component từng màn hình
++ Hoàng Đức Hải: Màn hình Home, ForgotPassword bên Customer; AdminPanel bên Shop 
++ Bùi Tiến Dũng: Profile, EditProfile, Onboard bên Customer;
++ Trần Thế Nam: Màn hình Cart, Payment bên Customer; ProductList bên Shop</ul>
+### Back-end
++ Nguyễn Anh Tuấn: sử dụng firestore + firebase database để ghi/sửa/xoá dữ liệu bên Customer
++ Hoàng Đức Hải: sử dụng firestore + firebase database để ghi/sửa/xoá dữ liệu bên Shop
++ Bùi Tiến Dũng: firebase authentication
+### Dữ liệu cho app
+Cả nhóm cùng tìm sản phẩm theo từng loại có trong app
