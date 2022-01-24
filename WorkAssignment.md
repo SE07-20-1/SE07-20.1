@@ -4,7 +4,7 @@
 ___Công việc cả nhóm thực hiện:___
 - Tìm hiểu về JavaScript
 - Tìm hiểu, cài đặt, lập trình và thực thi chương trình React Native cơ bản (Login Screen)
-- Sử dụng Figma
+- Sử dụng Figma</ul>
 ___Công việc cá nhân thực hiện:___
 - Hoàng Đức Hải tìm hiểu các khái niệm trong lập trình di động
 - Bùi Tiến Dũng tìm hiểu xu hướng phát triển lập trình di động
